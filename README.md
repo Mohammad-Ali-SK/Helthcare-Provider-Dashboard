@@ -1,25 +1,26 @@
 ### Healthcare Provider Dashboard - README
 
 #### Project Overview  
-The **Healthcare Provider Dashboard** is an interactive Power BI dashboard designed to analyze and visualize key healthcare billing and cost metrics. It provides stakeholders with insights into billing amounts, treatment costs, medication expenses, and out-of-pocket payments. The dashboard breaks down data by city, state, medical procedures, diagnoses, and departments, enabling effective financial trend analysis and decision-making.
+The **Healthcare Provider Dashboard** is an interactive Power BI dashboard built to analyze and visualize key healthcare billing and cost metrics. The project involves data cleaning and preparation in **Excel**, followed by data visualization in **Power BI**. It offers insights into billing amounts, treatment costs, medication expenses, and out-of-pocket payments, empowering stakeholders to make data-driven decisions.
 
 #### Features  
 - **Key Metrics**: Billing amounts, medication costs, treatment costs, and insurance coverage.  
 - **Breakdowns**: Data categorized by location, procedures, diagnoses, and medical departments.  
+- **Data Preparation**: Cleaned and organized raw data using Excel for better analysis.  
 - **Interactive Filters**: Filter data by year, quarter, and demographic attributes (e.g., race).  
-- **Visualization**: Clean and intuitive design for easy trend identification and comparison.
+- **Visualization**: Clear, intuitive design to uncover trends and insights easily.
 
 #### Purpose  
-This project aims to help healthcare providers and analysts identify financial patterns, optimize costs, and improve overall cost management strategies.
+This project aims to assist healthcare providers and analysts in understanding financial patterns, optimizing costs, and improving cost management strategies.
 
 #### Tools Used  
-- **Power BI**: For dashboard creation and data visualization.  
-- **Dataset**: Synthetic data representing healthcare billing and cost details.
+- **Excel**: For data cleaning and preparation.  
+- **Power BI**: For data visualization and dashboard creation.  
 
 #### Usage  
-Clone this repository to view the dashboard files. Open the `.pbix` file in Power BI Desktop to explore and customize the dashboard as needed.
+Clone this repository to access the files. The `.pbix` file can be opened in Power BI Desktop for exploring or customizing the dashboard. Excel files used for data cleaning are also included for reference.
 
 #### Future Enhancements  
-- Add predictive analytics for future cost estimation.  
-- Include patient feedback data for holistic analysis.  
-- Expand filters to include more demographic variables. 
+- Add predictive analytics to forecast healthcare costs.  
+- Include patient satisfaction data for deeper insights.  
+- Expand demographic filters for more detailed analysis.  
